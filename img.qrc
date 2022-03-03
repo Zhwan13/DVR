@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pictures/myappico.ico</file>
+        <file>pictures/pic3.jpg</file>
+        <file>pictures/app.png</file>
+        <file>pictures/backgroud-pink-blue.jpg</file>
+        <file>pictures/close (1).png</file>
+        <file>pictures/benefits (1).png</file>
+        <file>pictures/lock (1).png</file>
+        <file>pictures/user (1).png</file>
+        <file>pictures/view (1).png</file>
+        <file>pictures/view_off (1).png</file>
+        <file>pictures/PicVerify.jpg</file>
+        <file>pictures/back.png</file>
+        <file>pictures/background2.jpeg</file>
+        <file>pictures/min (1).png</file>
+        <file>pictures/road.jpg</file>
+        <file>pictures/car.png</file>
+        <file>pictures/walk.png</file>
+        <file>pictures/camera.png</file>
+        <file>pictures/photo.png</file>
+        <file>pictures/video.png</file>
+        <file>pictures/fold.png</file>
+        <file>pictures/unfold.png</file>
+        <file>pictures/background.jpg</file>
+        <file>pictures/date.png</file>
+        <file>pictures/time.png</file>
+        <file>pictures/play.png</file>
+        <file>pictures/stop.png</file>
+    </qresource>
+</RCC>
